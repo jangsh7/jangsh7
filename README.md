@@ -46,6 +46,7 @@
 | ⚙️ **System Programming** | C로 구현한 Proxy Cache Server (Socket, fork, Semaphore, pthread) | [바로가기](https://github.com/jangsh7/System-Programming) |
 | 🌐 **Computer Network** | Go-Back-N vs Selective Repeat 프로토콜 구현 및 비교 | [바로가기](https://github.com/jangsh7/Computer-Network) |
 | 🐧 **Operating System** | Linux Kernel 빌드, System Call Hooking, 스케줄링, FAT 파일 시스템 | [바로가기](https://github.com/jangsh7/Operating-System) |
+| 🚀 **GPU Computing** | OpenMP 스케줄링 성능 분석, CUDA Shared Memory Tiling 행렬 곱셈 | [바로가기](https://github.com/jangsh7/GPU-Computing) |
 
 <br>
 
@@ -85,7 +86,6 @@
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 *"It always seems impossible until it's done." — Nelson Mandela*
